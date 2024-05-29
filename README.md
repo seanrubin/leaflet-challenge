@@ -14,11 +14,6 @@ This Challenge uses both HTML and JavaScript, so be sure to add all the necessar
 
 Push the above changes to GitHub.
 
-Files
-Download the following files to help you get started:
-
-Module 15 Challenge filesLinks to an external site.
-
 # Instructions
 The instructions for this activity are broken into two parts:
 
@@ -27,7 +22,11 @@ Part 1: Create the Earthquake Visualization
 Part 2: Gather and Plot More Data (Optional with no extra points earning)
 
 # Part 1: Create the Earthquake Visualization
-2-BasicMap
+
+
+![image](https://github.com/seanrubin/leaflet-challenge/assets/31460184/f5df252a-42f8-4b54-b92c-1ed59e06ef4f)
+
+
 Your first task is to visualize an earthquake dataset. Complete the following steps:
 
 Get your dataset. To do so, follow these steps:
@@ -35,7 +34,11 @@ Get your dataset. To do so, follow these steps:
 The USGS provides earthquake data in a number of different formats, updated every 5 minutes. Visit the USGS GeoJSON FeedLinks to an external site. page and choose a dataset to visualize. The following image is an example screenshot of what appears when you visit this link:
 3-Data
 When you click a dataset (such as "All Earthquakes from the Past 7 Days"), you will be given a JSON representation of that data. Use the URL of this JSON to pull in the data for the visualization. The following image is a sampling of earthquake data in JSON format:
-4-JSON
+
+
+![image](https://github.com/seanrubin/leaflet-challenge/assets/31460184/cc0d891b-08e8-461c-9f48-10666d7c7542)
+
+
 Import and visualize the data by doing the following:
 
 Using Leaflet, create a map that plots all the earthquakes from your dataset based on their longitude and latitude.
@@ -70,3 +73,7 @@ Add other base maps to choose from.
 Put each dataset into separate overlays that can be turned on and off independently.
 
 Add layer controls to your map.
+
+# Website
+
+The link to the site is https://seanrubin.github.io/leaflet-challenge/
